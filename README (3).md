@@ -127,7 +127,7 @@ This analysis helps stakeholders:
 
 ## 👤 Author
 
-**Subhash Naidu Gogineni**
+**ATHARV AWASTHI**
 Aspiring Data Analyst / Data Science Intern
 
 ---
